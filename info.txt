@@ -1,0 +1,16 @@
+why redux toolkit
+
+Redux Toolkit is a set of tools that makes it easier for you, as a web developer, to manage the 
+state of your web application. Imagine your web app is like a big container of information, and 
+this information can change as users interact with your app. Redux Toolkit helps you keep track 
+of this information in a more organized and predictable way.
+
+Now, why would you want to use Redux Toolkit? Well, as your web app grows, it can become 
+challenging to manage all the data and make sure different parts of your app are in sync. 
+Redux Toolkit provides a clear and structured way to handle this data. It also helps to 
+simplify complex tasks like updating information, handling user actions, and ensuring that 
+everything works smoothly.
+
+In simpler terms, Redux Toolkit is like a helpful assistant for keeping track of and managing
+the important information in your web app, making your job as a developer easier and your 
+code more maintainable.
